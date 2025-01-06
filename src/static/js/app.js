@@ -4,11 +4,6 @@ function App() {
         <Container>
             <Row>               
                 <Col md={{ offset: 3, span: 6 }}>
-                    <h1>ToDo List by Maria Riera</h1>
-                </Col>
-            </Row>
-            <Row>               
-                <Col md={{ offset: 3, span: 6 }}>
                     <TodoListCard />
                 </Col>
             </Row>
